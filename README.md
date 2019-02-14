@@ -31,17 +31,18 @@ node liri.js <'search-command'> <'artist/band name here'>
 
     Code  
 
-    ![Alt Text](./images/movie_case.png)
+![Alt Text](./images/movie_case.png)
    
    
    
 
    * `do-what-it-says` - The spotify search function will be called based on the song name stored in the random.txt file  
 
-    ![Alt Text](./images/dwis_.png)
+![Alt Text](./images/dwis_.png)
 
-    Code:
-    ![Alt Text](./images/dwis_case.png)
+    Code
+    
+![Alt Text](./images/dwis_case.png)
 
 
 Information on searched media is then displayed in the terminal window.
