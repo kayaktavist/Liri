@@ -1,1 +1,1 @@
-# Liri
+Liri is a demonstration Node JS application that allows users to search for media information from multiple sources. Users can search for songs, movies, or concerts from a terminal window. The application utilizes axios to interact with the Bands in Town api and the OMDB api to retrieve concert and movie data. When searching for songs, the application utilizes the node spotify api module to request song data. 
